@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Booder</string>
+    <string name="booder">booder</string>
+    <string name="search">Search</string>
+    <string name="result_for">RESULT FOR:</string>
+    <string name="api_key">ouQ3vdJg8Xaorkm99l1Lg</string>
+    <string name="search_url">https://www.goodreads.com/search/index.xml</string>
+    <string name="book_url">https://www.goodreads.com/book/show.xml</string>
+    <string name="book_cover_image">Book Cover Image</string>
+    <string name="read_reviews_and_highlights">Read Reviews And Highlights</string>
+    <string name="loading">Loading...</string>
+</resources>
